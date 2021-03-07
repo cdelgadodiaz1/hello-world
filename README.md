@@ -1,6 +1,3 @@
-# hello-world
-just another repository
-
 American Muscle Cars
 
 Mision
